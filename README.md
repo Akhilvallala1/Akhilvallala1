@@ -31,6 +31,6 @@ Open to AI/ML engineering roles.
 
 ### Skills
 
-**AI/ML:** LLM gateways and routing, guardrails and PII redaction (Presidio), RAG, evals, MCP, LangGraph, LangChain, OpenAI/Anthropic/Gemini APIs, Hugging Face, LoRA and instruction tuning
-**Data engineering:** Python, SQL, Apache Spark, Databricks, Azure Data Factory, ETL pipelines, MongoDB Atlas Vector Search, FAISS
-**Tools:** FastAPI, Docker, GitHub Actions, GCP Cloud Run, Power BI, Tableau
+- **AI/ML:** LLM gateways and routing, guardrails and PII redaction (Presidio), RAG, evals, MCP, LangGraph, LangChain, OpenAI/Anthropic/Gemini APIs, Hugging Face, LoRA and instruction tuning
+- **Data engineering:** Python, SQL, Apache Spark, Databricks, Azure Data Factory, ETL pipelines, MongoDB Atlas Vector Search, FAISS
+- **Tools:** FastAPI, Docker, GitHub Actions, GCP Cloud Run, Power BI, Tableau
